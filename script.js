@@ -7,3 +7,7 @@ function sum(x, y) {
 }
 
 sum(15, 2);
+
+// can't use variables defined inside a function
+
+// document.write(total);
