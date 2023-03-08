@@ -18,5 +18,5 @@ function sum(x, y) {
   return total;
 }
 
-sum('Hello ', 'I am Matthew.');
-document.write(total);
+var output = sum(35, 40);
+document.write(output);
